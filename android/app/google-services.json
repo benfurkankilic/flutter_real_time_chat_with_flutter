@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "151848722794",
+    "project_id": "flutter-realtime-chat-demo",
+    "storage_bucket": "flutter-realtime-chat-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151848722794:android:f130dead6d2dbf02898513",
+        "android_client_info": {
+          "package_name": "com.example.flutter_real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151848722794-s3afp06j5fa1c5208v5qpj96rks3aa00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR88ePTsqMnRhYCb-RezHEfVw27CY_Y8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151848722794-s3afp06j5fa1c5208v5qpj96rks3aa00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151848722794-leom3lqbbsm2ih1nqlrsd363qki9bmeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterRealTimeChatWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151848722794:android:0b3a7b4e12f32885898513",
+        "android_client_info": {
+          "package_name": "com.example.flutter_real_time_chat_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151848722794-s3afp06j5fa1c5208v5qpj96rks3aa00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR88ePTsqMnRhYCb-RezHEfVw27CY_Y8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151848722794-s3afp06j5fa1c5208v5qpj96rks3aa00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151848722794-leom3lqbbsm2ih1nqlrsd363qki9bmeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterRealTimeChatWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
